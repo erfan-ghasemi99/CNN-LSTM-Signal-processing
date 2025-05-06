@@ -1,0 +1,10 @@
+You Should Download the Data Zipfile and extract in 'Data' Folder.
+
+
+
+
+
+
+Link Of The Data : 
+
+https://storage.googleapis.com/kaggle-data-sets/4653202/7918856/upload/dataverse_files.zip?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20250504%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250504T145757Z&X-Goog-Expires=259200&X-Goog-SignedHeaders=host&X-Goog-Signature=4673423df554fbac52e4d46a8689a7ecdf45453b6953da2884661a18d4bb7f1aba0a5d84d94c7df028497f68019dede035a0d305d4881e8bb3bb54871ded0ea74a191f67bf224e2781486541d41a24b22de2888ed3aaee9c5d64cef2b91bd2dfe7795f32a06a4ccbfdd5c935403248f4acf5a6d50a9c47300c103d011f5c1201d2390d99045c32d06d17e105291a8f868a99e12eea46cbbf4df08914d12927c5e252f3b917cda720b63bec8553f595c73ced26d38cf7a6ef988db5b1e1a69af9d3073932fb15841155f1e8fbf1120abb0adda726b6374312c7141d18fef0f476363b15deee04fe4ca89604efc41857287a371da8d6a5f99f0643e58171d7aed3
